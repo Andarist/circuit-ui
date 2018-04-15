@@ -77,6 +77,25 @@ storiesOf('Button', module)
     ))
   )
   .add(
+    'Loading button',
+    withInfo()(() => (
+      <div style={stretchedContainerStyles}>
+        <Button
+          style={stretchedContainerTopButtonStyles}
+          onClick={() =>
+            new Promise(resolve => {
+              setTimeout(() => resolve(), 5000);
+            })
+          }
+          delayMs={1000}
+          primary
+        >
+          Click me
+        </Button>
+      </div>
+    ))
+  )
+  .add(
     'Button kilo',
     withInfo()(() => <Button size={Button.KILO}>Button</Button>)
   )
