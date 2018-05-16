@@ -70,9 +70,6 @@ exports[`Button should have button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -152,9 +149,6 @@ exports[`Button should have disabled button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -252,9 +246,6 @@ exports[`Button should have flat button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -352,9 +343,6 @@ exports[`Button should have flat disabled button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -434,9 +422,6 @@ exports[`Button should have giga button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -516,9 +501,6 @@ exports[`Button should have kilo button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -598,9 +580,6 @@ exports[`Button should have mega button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -726,9 +705,6 @@ exports[`Button should have secondary button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -854,9 +830,6 @@ exports[`Button should have secondary disabled button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -982,9 +955,6 @@ exports[`Button should have secondary flat button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
@@ -1066,9 +1036,6 @@ exports[`Button should have stretch button styles 1`] = `
   <div
     className="circuit-2 circuit-3"
   >
-    <div>
-      loading.svg
-    </div>
     <div
       className="circuit-0 circuit-1"
     >
