@@ -87,7 +87,7 @@ storiesOf('Button', module)
               setTimeout(() => resolve(), 5000);
             })
           }
-          delayMs={1000}
+          delayMs={500}
           primary
         >
           Click me
