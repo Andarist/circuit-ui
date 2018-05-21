@@ -47,6 +47,9 @@ export { default as List } from './components/List';
 export { default as SubHeading } from './components/SubHeading';
 export { default as Text } from './components/Text';
 
+// Table
+export { default as Table } from './components/Table';
+
 // Forms
 export {
   RangePicker,
