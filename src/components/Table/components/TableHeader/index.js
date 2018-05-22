@@ -18,7 +18,6 @@ const baseStyles = ({ theme, align }) => css`
   text-align: ${align};
   transition: background-color ${theme.transitions.default},
     color ${theme.transitions.default};
-  white-space: nowrap;
 `;
 
 const hoveredStyles = ({ theme, isHovered }) =>

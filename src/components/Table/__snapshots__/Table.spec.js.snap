@@ -50,7 +50,6 @@ exports[`Table Style tests should render with default styles 1`] = `
   text-align: left;
   -webkit-transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
-  white-space: nowrap;
   color: #5C656F;
   font-size: 13px;
   font-weight: 700;
@@ -128,7 +127,6 @@ exports[`Table Style tests should render with default styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
   display: none;
   padding: 8px 24px;
 }
@@ -149,7 +147,6 @@ exports[`Table Style tests should render with default styles 1`] = `
   text-align: left;
   -webkit-transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
-  white-space: nowrap;
   color: #5C656F;
   font-size: 13px;
   font-weight: 700;
@@ -164,7 +161,6 @@ exports[`Table Style tests should render with default styles 1`] = `
   text-align: left;
   -webkit-transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
-  white-space: nowrap;
 }
 
 @media (max-width:767px) {
@@ -185,7 +181,6 @@ exports[`Table Style tests should render with default styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
   display: none;
 }
 
@@ -206,7 +201,6 @@ exports[`Table Style tests should render with default styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
 }
 
 <div
@@ -414,7 +408,6 @@ exports[`Table Style tests should render with rowHeader styles 1`] = `
   text-align: left;
   -webkit-transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
-  white-space: nowrap;
   color: #5C656F;
   font-size: 13px;
   font-weight: 700;
@@ -492,7 +485,6 @@ exports[`Table Style tests should render with rowHeader styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
   display: none;
   padding: 8px 24px;
 }
@@ -513,7 +505,6 @@ exports[`Table Style tests should render with rowHeader styles 1`] = `
   text-align: left;
   -webkit-transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
-  white-space: nowrap;
   color: #5C656F;
   font-size: 13px;
   font-weight: 700;
@@ -528,7 +519,6 @@ exports[`Table Style tests should render with rowHeader styles 1`] = `
   text-align: left;
   -webkit-transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
-  white-space: nowrap;
 }
 
 @media (max-width:767px) {
@@ -549,7 +539,6 @@ exports[`Table Style tests should render with rowHeader styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
   display: none;
 }
 
@@ -570,7 +559,6 @@ exports[`Table Style tests should render with rowHeader styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
 }
 
 <div
