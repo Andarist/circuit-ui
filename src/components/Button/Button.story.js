@@ -77,7 +77,7 @@ storiesOf('Button', module)
     ))
   )
   .add(
-    'Loading button',
+    'Loading button with success',
     withInfo()(() => (
       <div style={stretchedContainerStyles}>
         <Button
@@ -85,6 +85,25 @@ storiesOf('Button', module)
           onClick={() =>
             new Promise(resolve => {
               setTimeout(() => resolve(), 5000);
+            })
+          }
+          loadingDelay={500}
+          primary
+        >
+          Click me
+        </Button>
+      </div>
+    ))
+  )
+  .add(
+    'Loading button',
+    withInfo()(() => (
+      <div style={stretchedContainerStyles}>
+        <Button
+          style={stretchedContainerTopButtonStyles}
+          onClick={() =>
+            new Promise((_, reject) => {
+              setTimeout(() => reject(), 5000);
             })
           }
           loadingDelay={500}
