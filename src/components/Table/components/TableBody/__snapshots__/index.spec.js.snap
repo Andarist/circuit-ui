@@ -13,7 +13,6 @@ exports[`TableBody Style tests should render with default styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
 }
 
 <tbody>
@@ -47,7 +46,6 @@ exports[`TableBody Style tests should render with fixed Header styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
 }
 
 .circuit-0 {
@@ -57,7 +55,6 @@ exports[`TableBody Style tests should render with fixed Header styles 1`] = `
   text-align: left;
   -webkit-transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out,color 200ms ease-in-out;
-  white-space: nowrap;
 }
 
 @media (max-width:767px) {
@@ -78,7 +75,6 @@ exports[`TableBody Style tests should render with fixed Header styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
   display: none;
 }
 
