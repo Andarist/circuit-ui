@@ -13,7 +13,6 @@ const baseStyles = ({ theme, align }) => css`
   text-align: ${align};
   transition: background-color ${theme.transitions.default};
   vertical-align: middle;
-  white-space: nowrap;
 `;
 
 const presentationStyles = ({ theme, role, header }) =>

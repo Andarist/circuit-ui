@@ -9,7 +9,6 @@ exports[`TableCell Style tests should render with default styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
 }
 
 <td
@@ -28,7 +27,6 @@ exports[`TableCell Style tests should render with header styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
 }
 
 <td
@@ -47,7 +45,6 @@ exports[`TableCell Style tests should render with isHovered styles 1`] = `
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   vertical-align: middle;
-  white-space: nowrap;
   background-color: #FAFBFC;
 }
 
